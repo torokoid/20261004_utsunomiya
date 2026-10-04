@@ -244,7 +244,7 @@ p.note { display: none; }
 
 <h2><span class="yellow">自転車で移動中の走行動画</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/embed/lnzo44uox8Y?si=4kNviI2JoREkDtwU&autoplay=1&mute=1&loop=1&playlist=embed/lnzo44uox8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lnzo44uox8Y?si=4kNviI2JoREkDtwU&autoplay=1&mute=1&loop=1&playlist=lnzo44uox8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
 
